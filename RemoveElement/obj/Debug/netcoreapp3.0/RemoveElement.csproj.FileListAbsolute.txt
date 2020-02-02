@@ -1,0 +1,11 @@
+D:\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.0\RemoveElement.exe
+D:\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.0\RemoveElement.deps.json
+D:\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.0\RemoveElement.runtimeconfig.json
+D:\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.0\RemoveElement.runtimeconfig.dev.json
+D:\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.0\RemoveElement.dll
+D:\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.0\RemoveElement.pdb
+D:\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.0\RemoveElement.csprojAssemblyReference.cache
+D:\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.0\RemoveElement.AssemblyInfoInputs.cache
+D:\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.0\RemoveElement.AssemblyInfo.cs
+D:\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.0\RemoveElement.dll
+D:\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.0\RemoveElement.pdb
